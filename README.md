@@ -1,4 +1,3 @@
-````markdown
 # Last Safe Zone (LSZ) Backend
 
 This repository implements the **deterministic** (rule-based) backend for a social-deduction LSZ game. Its responsibilities are:
