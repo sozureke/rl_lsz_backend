@@ -1,0 +1,5 @@
+fastapi~=0.116.1
+pydantic-settings~=2.10.1
+pydantic~=2.11.7
+cachetools~=6.1.0
+ollama~=0.5.1
